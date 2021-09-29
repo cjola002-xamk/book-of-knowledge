@@ -13,6 +13,7 @@ Usefull software, snippets, etc..
 
 ## USB tools
 
+### For making bootable linux usb
 <a href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
 <br>
 <a href="https://rufus.ie/en/" alt="https://rufus.ie/en/">Rufus</a>
