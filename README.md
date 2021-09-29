@@ -14,3 +14,4 @@ Usefull software, snippets, etc..
 ## USB tools
 
 <a href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
+<a href="https://rufus.ie/en/" alt="https://rufus.ie/en/">Rufus</a>
