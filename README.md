@@ -9,10 +9,12 @@ Usefull software, snippets, etc..
 <br>
 ## Note Taking
 
-<a href="https://www.giuspen.com/cherrytree/" alt="https://www.giuspen.com/cherrytree/">Cherry Tree note taking app</a>
+<a href="https://www.giuspen.com/cherrytree/" alt="https://www.giuspen.com/cherrytree/">CherryTree note taking app</a>
 
 ## USB tools
 
 <a href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
 <br>
 <a href="https://rufus.ie/en/" alt="https://rufus.ie/en/">Rufus</a>
+<br>
+<a href="https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/" alt="https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/">Universal Usb installer</a>
