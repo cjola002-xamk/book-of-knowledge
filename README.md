@@ -10,3 +10,7 @@ Usefull software, snippets, etc..
 ## Note Taking
 
 <a href="https://www.giuspen.com/cherrytree/" alt="https://www.giuspen.com/cherrytree/">Cherry Tree note taking app</a>
+
+## USB tools
+
+<href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
