@@ -13,4 +13,4 @@ Usefull software, snippets, etc..
 
 ## USB tools
 
-<href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
+<a href="https://www.balena.io/etcher/" alt="https://www.balena.io/etcher/">Balena Etcher</a>
